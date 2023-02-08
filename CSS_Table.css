@@ -1,0 +1,13 @@
+td,
+th,
+td {
+  border: 1px solid black;
+}
+
+td:hover {
+  background-color: cornsilk;
+}
+
+h1:hover {
+  color: orange;
+}
