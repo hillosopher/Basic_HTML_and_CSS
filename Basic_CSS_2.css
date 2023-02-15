@@ -3,5 +3,10 @@ p {
   background-color: bisque;
   font-size: medium;
   text-align: inherit;
-  text-shadow: 2px 2px #ff0000;
+  text-shadow: 1px 1px #000000;
+}
+
+label,
+input {
+  margin: 10px 0px;
 }
